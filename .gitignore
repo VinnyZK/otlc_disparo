@@ -1,0 +1,13 @@
+# Arquivos de ambiente
+.env
+
+# Arquivos de dados baixados
+contratos_ativos.json
+
+# Diretórios de cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos de IDEs e editores
+.vscode/
+.idea/
